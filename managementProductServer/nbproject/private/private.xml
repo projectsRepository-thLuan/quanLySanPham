@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/LENOVO/Desktop/DoAnLTM/managementProductServer/src/model/Category.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/DoAnLTM/managementProductServer/src/managementproductserver/DBAccess.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/DoAnLTM/managementProductServer/src/managementproductserver/MyConnection.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/DoAnLTM/managementProductServer/src/model/Custommer.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/DoAnLTM/managementProductServer/src/model/Order.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/DoAnLTM/managementProductServer/src/managementproductserver/LoginClientHandler.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/DoAnLTM/managementProductServer/src/managementproductserver/Services/CategoryService.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/DoAnLTM/managementProductServer/src/managementproductserver/Services/OrderService.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/DoAnLTM/managementProductServer/src/model/OrderDetail.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/DoAnLTM/managementProductServer/src/managementproductserver/Services/UserService.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/DoAnLTM/managementProductServer/src/managementproductserver/Services/SQLException.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/DoAnLTM/managementProductServer/src/managementproductserver/ManagementProductServer.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/DoAnLTM/managementProductServer/src/model/Product.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/DoAnLTM/managementProductServer/src/managementproductserver/Services/ProductService.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/DoAnLTM/managementProductServer/src/model/User.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/DoAnLTM/managementProductServer/src/managementproductserver/Services/CustommerService.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/DoAnLTM/managementProductServer/src/managementproductserver/Services/OrderDetailService.java</file>
+        </group>
+    </open-files>
+</project-private>
